@@ -16,3 +16,6 @@ sudo apt-get install -y build-essential
             L-- makeSignForRegistAddress.sh    Provide signature function for address registration
     > lib ----- library to provide the above Tree functions
     > sample -- sample data
+
+## Contact
+We can answer your questions related to this smartcontract if you have need help. Just send an email, hansuljang@linka.io or hongjoolee@linka.io.
