@@ -1,0 +1,20 @@
+{
+  "name": "linkatokensdk",
+  "version": "0.0.2",
+  "description": "linka token 사용을 위한 SDK.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "linka-node-sdk": "file:../linkanodesdk",
+    "ps-grab": "^1.0.1"
+  },
+  "keywords": [
+    "linka",
+    "token",
+    "sdk"
+  ],
+  "author": "LinkaKorea",
+  "license": "The GNU Lesser General Public License"
+}
